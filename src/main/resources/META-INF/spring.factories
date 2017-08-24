@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.github.star45.springboot.DiamondConfigurationApplicationContextInitializer
+org.springframework.context.ApplicationListener=\
+com.github.star45.springboot.DiamondHolderListener
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.star45.springboot.DiamondAutoConfiguration
